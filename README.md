@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EtherBloomDev
+- 👀 I’m interested in creative applications of computer technology
+- 🌱 I’m currently learning VueJS
